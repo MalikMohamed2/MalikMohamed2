@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Malik Mohamed 👋
 
-<!--
-**MalikMohamed2/MalikMohamed2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Python Developer | Learning AI | Building Practical Projects
 
-Here are some ideas to get you started:
+I'm currently learning Python through hands-on projects and practical programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🐍 What I'm Learning
+
+- Python
+- Object-Oriented Programming
+- Problem Solving
+- Building Practical Projects
+- AI
+
+### 🚀 Projects
+
+Check out my Python projects here:
+
+[Python Projects](https://github.com/MalikMohamed2/Python-Projects)
+
+### 🎯 Goals
+
+I'm working toward becoming a stronger Python developer and building useful software and AI-powered applications.
+
+---
+
+⭐ Thanks for visiting my profile!
